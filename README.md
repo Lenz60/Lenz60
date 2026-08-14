@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats&theme=everforest-dark"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
